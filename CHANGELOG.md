@@ -16,14 +16,35 @@
 
 - **(es/parser)** Support type-only export-import declarations (#5122) ([fbfca36](https://github.com/swc-project/swc/commit/fbfca36f58cf393faae132b092d05e9aaa931d55))
 
+### Documentation
+
+
+
+- **(es/parser)** Typo (#5136) ([9d4be11](https://github.com/swc-project/swc/commit/9d4be11f2ef0b9245a1626717f9c75e0220e5dfa))
+
+
+- **(visit)** Add docs for visitors (#5137) ([76de911](https://github.com/swc-project/swc/commit/76de91146661a7b1b72e81f91787e57943040481))
+
 ### Features
 
+
+
+- **(es/parser)** Support `d` in regex flag for es2022 (#5127) ([2d94797](https://github.com/swc-project/swc/commit/2d94797975ee162837b24283c8b738f282586a4d))
 
 
 - **(es/typescript)** Follow TypeScript error report (#5114) ([f952a61](https://github.com/swc-project/swc/commit/f952a6161c634fbb430b0befad6f3946c9fbfde5))
 
 
 - **(html/minifier)** Sort attributes (#4784) ([f813a60](https://github.com/swc-project/swc/commit/f813a60497da416c41041af1d82d7186a6f0cc09))
+
+
+- **(plugin)** Wrap serialized struct with a version (#5128) ([82fbe15](https://github.com/swc-project/swc/commit/82fbe15a57e51ae444c3846fe6a512af297e0087))
+
+
+- **(visit)** Implement `Eq` for `AstKind` (#5133) ([46b1b42](https://github.com/swc-project/swc/commit/46b1b42c3c8ceafadfdc30973344eaded5a52bda))
+
+
+- **(visit)** Implement more traits for `AstKind` (#5135) ([f26d59b](https://github.com/swc-project/swc/commit/f26d59b7701f5d7f6cf25055c1ed0e37da6964a1))
 
 ### Refactor
 
